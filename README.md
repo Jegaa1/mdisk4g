@@ -33,8 +33,8 @@
 ( you can also send image as a photo to set it as Thumbnail automatically )
 /remove - remove Thumbnail
 /show - show Thumbnail
-/change - change upload mode
-( default mode is Document )
+/mode - change upload mode
+( default mode is Video)
 ```
 ---
 
